@@ -25,6 +25,10 @@ def directors_totals(nds)
   result = {}
   i = 0
   
-  while 
+  while i < nds.length do
+    
+    
+  end
+  
 
 end
