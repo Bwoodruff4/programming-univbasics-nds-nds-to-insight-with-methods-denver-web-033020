@@ -5,8 +5,9 @@ require 'directors_database'
 # using director_data as input
 def gross_for_director(director_data)
   total_gross = 0
-  index = 0
+  i = 0
   
+  while i < director_data
 
 end
 
