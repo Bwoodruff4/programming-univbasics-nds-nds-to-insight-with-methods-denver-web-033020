@@ -23,5 +23,8 @@ end
 # { directorOne => allTheMoneyTheyMade, ... }
 def directors_totals(nds)
   result = {}
-  nil
+  i = 0
+  
+  while 
+
 end
